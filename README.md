@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-https://montelchuu.github.io/unique-work-day-scheduler/
+https://montelchuu.github.io/unique-weather-dashboard/
 
 ### Summary
 * Weather dashboard to show weather for today and the next 5 days

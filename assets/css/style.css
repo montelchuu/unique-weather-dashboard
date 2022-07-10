@@ -1,0 +1,36 @@
+:root {
+    --bg-color: #fefbd8;
+    --secondary-bg-color: #80ced6;
+    --main-color: #d5f4e6;
+    --secondary-color: #b1cbbb;
+    --text-color: #3e4444;
+}
+
+body {
+    background-color: var(--bg-color);
+    margin: 0;
+    padding: 0;
+} 
+
+h1 {
+    background-color: var(--secondary-bg-color);
+    color: var(--text-color);
+    border-radius: 10px;
+}
+
+.hud {
+    background-color: var(--secondary-bg-color);
+}
+
+.hud-sub {
+    text-align: center;
+}
+
+.col-3, .col-8 {
+    border-radius: 10px;
+}
+
+.card {
+    border: solid;
+    background-color: var(--bg-color);
+}
